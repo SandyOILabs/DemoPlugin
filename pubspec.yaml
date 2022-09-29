@@ -1,7 +1,7 @@
 name: demo_plugin
 description: A new Flutter package project.
 version: 0.0.1
-homepage:
+homepage: https://github.com/SandyOILabs/DemoPlugin
 
 environment:
   sdk: '>=2.18.1 <3.0.0'
